@@ -1,0 +1,67 @@
+# depslib dependency file v1.0
+1400835605 source:/home/kelvinosse/Documents/CodeProject/Bubbles/main.cpp
+	"SDL/SDL.h"
+	"SDL/SDL_image.h"
+	"SDL/SDL_ttf.h"
+	"SDL/SDL_mixer.h"
+	"Malvada.h"
+	"Freeze.h"
+	"Explosive.h"
+	"Burbuja.h"
+	"Ship.h"
+	<list>
+	<stdlib.h>
+	<string>
+	<sstream>
+	<fstream>
+	<iostream>
+	<algorithm>
+	<vector>
+
+1400792732 source:/home/kelvinosse/Documents/CodeProject/Bubbles/Burbuja.cpp
+	"Burbuja.h"
+
+1400792732 /home/kelvinosse/Documents/CodeProject/Bubbles/Burbuja.h
+	"SDL/SDL.h"
+	"SDL/SDL_image.h"
+	"SDL/SDL_ttf.h"
+	<list>
+	<iostream>
+	<string>
+
+1400792732 source:/home/kelvinosse/Documents/CodeProject/Bubbles/Malvada.cpp
+	"Malvada.h"
+
+1400817902 /home/kelvinosse/Documents/CodeProject/Bubbles/Malvada.h
+	"Burbuja.h"
+	"SDL/SDL.h"
+	"SDL/SDL_image.h"
+	"SDL/SDL_ttf.h"
+
+1400792732 source:/home/kelvinosse/Documents/CodeProject/Bubbles/Freeze.cpp
+	"Freeze.h"
+
+1400792732 /home/kelvinosse/Documents/CodeProject/Bubbles/Freeze.h
+	"Burbuja.h"
+	"SDL/SDL.h"
+	"SDL/SDL_image.h"
+	"SDL/SDL_ttf.h"
+
+1400792732 source:/home/kelvinosse/Documents/CodeProject/Bubbles/Explosive.cpp
+	"Explosive.h"
+
+1400792732 /home/kelvinosse/Documents/CodeProject/Bubbles/Explosive.h
+	"Burbuja.h"
+	"SDL/SDL.h"
+	"SDL/SDL_image.h"
+	"SDL/SDL_ttf.h"
+
+1400805550 /home/kelvinosse/Documents/CodeProject/Bubbles/Ship.h
+	"Burbuja.h"
+	"SDL/SDL.h"
+	"SDL/SDL_image.h"
+	"SDL/SDL_ttf.h"
+
+1400806198 source:/home/kelvinosse/Documents/CodeProject/Bubbles/Ship.cpp
+	"Ship.h"
+
