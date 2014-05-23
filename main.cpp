@@ -682,16 +682,16 @@ void HighScores(){
 
     ifstream getting("scores.txt");
 
-    if(getting == NULL){
-        return;
-    }
+   // if(getting == NULL){
+   //     return;
+   // }
     int higher1;
     int higher2;
     int higher3;
     getting >> higher1 >> higher2 >> higher3;
-    if(higher3 == NULL || higher1 == NULL || higher2 == NULL){
-        return;
-    }
+  //  if(higher3 == NULL || higher1 == NULL || higher2 == NULL){
+  //      return;
+  //  }
 
     std::stringstream highscore1;
     std::stringstream highscore2;
